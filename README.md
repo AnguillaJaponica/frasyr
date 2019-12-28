@@ -65,4 +65,3 @@ devtools::check()
 7. 修正した一連の変更を 個人の名前のブランチichimomoに push する
 8. Githubのウェブ上で，ichimomoからdevにpull request => merge
 9. 安定版が完成した段階でmasterも変更
-
